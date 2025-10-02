@@ -1,0 +1,35 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+:root{
+    
+  --primary:#FB2E86;  
+  --mainfont:"Lato", sans-serif;
+}
+.btn{
+ border: none;
+ outline: border;  
+ color: #fff; 
+ background-color:FB2E86 ;
+ padding: 16px 40px;
+ border-radius: 2px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.container{
+    width: calc(100% - 320px);
+    margin: auto;
+}
