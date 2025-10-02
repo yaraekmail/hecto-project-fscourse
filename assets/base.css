@@ -33,3 +33,21 @@ ul{
     width: calc(100% - 320px);
     margin: auto;
 }
+.test-white{
+    color: #fff;
+}
+.d-flex{
+    display: flex;
+}
+.flex-direction{
+    flex-direction: column;
+}
+.gap-1{
+    gap: 5px;
+}
+.gap-2{
+    gap: 23px;
+}
+.gap-3{
+    gap: 46px;
+}

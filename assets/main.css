@@ -48,3 +48,29 @@ body{
     display: block;
   }
 }
+/* end header */
+/* start footer */
+.footer{
+  background-color: #EEEFFB;
+padding: 50px 0;
+}
+.footer a, .address-info{
+  color: #8A8FB9;
+}
+.footer .row{
+  align-items: flex-start;
+
+}
+.footer .right-side{
+  width: 60%;
+  
+  
+}
+.footer-item{
+  gap: 45px;
+}
+.footer .left-side{
+ align-items: flex-start;
+  gap:35px ;
+}
+/* end footer */
