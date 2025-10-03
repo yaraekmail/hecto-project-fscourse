@@ -23,6 +23,9 @@ ul{
  padding: 16px 40px;
  border-radius: 2px;
 }
+.btn-primary{
+    background-color: var(--primary);
+}
 .row{
     display: flex;
     flex-wrap: wrap;

@@ -48,6 +48,28 @@ b .list a {
 }
 /* end header */
 
+/*  start newslater */
+
+.newslater{
+  background-image: url('./photos/newslater.webp');
+  padding: 175px 0;
+  text-align: center;
+}
+.newslater h2{
+  margin-bottom: 50px;
+  color: #151875;
+  font-size: 35px;
+  background-attachment: fixed;
+}
+.shop-btn{
+  transition: all 0.5s;
+}
+.shop-btn:hover{
+background-color: #151875;
+}
+/* end newslater */
+
+
 /* start clients */
 .clients{
   padding: 50px 0;
