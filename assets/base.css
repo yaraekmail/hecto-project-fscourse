@@ -14,6 +14,7 @@ ul{
     
   --primary:#FB2E86;  
   --mainfont:"Lato", sans-serif;
+   --green: #08d15f;
 }
 .btn{
  border: none;
@@ -21,6 +22,14 @@ ul{
  color: #fff; 
  background-color:FB2E86 ;
  padding: 16px 40px;
+ border-radius: 2px;
+}
+.btn-view{
+ border: none;
+ outline: border;  
+ color: #fff; 
+ background-color:FB2E86 ;
+padding: 8px 15px;
  border-radius: 2px;
 }
 .btn-primary{
@@ -59,6 +68,9 @@ ul{
 }
 .flex-direction{
     flex-direction: column;
+}
+.btn-green {
+  background-color: var(--green);
 }
 .gap-1{
     gap: 5px;
