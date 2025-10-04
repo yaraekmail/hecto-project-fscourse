@@ -70,3 +70,21 @@ ul{
 .gap-3{
     gap: 46px;
 }
+.text-center
+{
+    text-align: center;
+}
+.text-left
+{
+    text-align: left;
+}
+.text-right
+{
+    text-align: right;
+}
+.text-primary{
+    color: var(--primary);
+}
+.text-secondry{
+    color: #151875;
+}
