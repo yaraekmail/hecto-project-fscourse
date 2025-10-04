@@ -48,6 +48,15 @@ b .list a {
 }
 /* end header */
 
+/* start hero section */
+.hero img{
+  width: 100%;
+}
+
+/* end hero section */
+
+
+
 /* start products */
 .featured-Products {
   padding: 50px 0;
